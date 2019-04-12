@@ -1,0 +1,14 @@
+.DS_Store
+.idea
+
+*/config/development
+*/logs/log-*.php
+!*/logs/index.html
+*/cache/*
+!*/cache/index.html
+!*/cache/.htaccess
+
+application/logs/*
+!application/logs/index.html
+!application/logs/.htaccess
+/vendor/
