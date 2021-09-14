@@ -1,7 +1,7 @@
 <?php
 
-echo '123';
+echo '1';
 
-function run() {
-    echo 'testme';
+function r() {
+    echo 'testme-90909';
 }
